@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\xmlsimple\xmlsimple\bin\Debug\xmlsimple.exe.config
+C:\Users\student\source\repos\xmlsimple\xmlsimple\bin\Debug\xmlsimple.exe
+C:\Users\student\source\repos\xmlsimple\xmlsimple\bin\Debug\xmlsimple.pdb
+C:\Users\student\source\repos\xmlsimple\xmlsimple\obj\Debug\xmlsimple.csprojAssemblyReference.cache
+C:\Users\student\source\repos\xmlsimple\xmlsimple\obj\Debug\xmlsimple.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\xmlsimple\xmlsimple\obj\Debug\xmlsimple.exe
+C:\Users\student\source\repos\xmlsimple\xmlsimple\obj\Debug\xmlsimple.pdb
+D:\c#\lesson22\xmlsimple\xmlsimple\bin\Debug\xmlsimple.exe.config
+D:\c#\lesson22\xmlsimple\xmlsimple\bin\Debug\xmlsimple.exe
+D:\c#\lesson22\xmlsimple\xmlsimple\bin\Debug\xmlsimple.pdb
+D:\c#\lesson22\xmlsimple\xmlsimple\obj\Debug\xmlsimple.csprojAssemblyReference.cache
+D:\c#\lesson22\xmlsimple\xmlsimple\obj\Debug\xmlsimple.csproj.CoreCompileInputs.cache
+D:\c#\lesson22\xmlsimple\xmlsimple\obj\Debug\xmlsimple.exe
+D:\c#\lesson22\xmlsimple\xmlsimple\obj\Debug\xmlsimple.pdb

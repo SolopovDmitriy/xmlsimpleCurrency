@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlsimple", "xmlsimple\xmlsimple.csproj", "{51A8B635-78E1-4E6F-99F6-7B580947D508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A8B635-78E1-4E6F-99F6-7B580947D508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A8B635-78E1-4E6F-99F6-7B580947D508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A8B635-78E1-4E6F-99F6-7B580947D508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A8B635-78E1-4E6F-99F6-7B580947D508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {502453BD-B558-4AD5-9E94-EFB14DC8EBE1}
+	EndGlobalSection
+EndGlobal

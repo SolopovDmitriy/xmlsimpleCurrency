@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Operators>
+	<Operator Name="Lifecell">
+		<PhoneCode Value="063"/>
+		<PhoneCode Value="073"/>
+		<PhoneCode Value="093"/>
+	</Operator>
+	<Operator Name="Vodafone">
+		<PhoneCode Value="066"/>
+		<PhoneCode Value="050"/>
+		<PhoneCode Value="095"/>
+		<PhoneCode Value="099"/>
+	</Operator>
+	<Operator Name="Kyivstar">
+		<PhoneCode Value="067"/>
+		<PhoneCode Value="068"/>
+		<PhoneCode Value="096"/>
+		<PhoneCode Value="097"/>
+		<PhoneCode Value="098"/>
+	</Operator>
+</Operators>
+ 

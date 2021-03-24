@@ -1,0 +1,2 @@
+1) https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange
+2)https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?date=20210123
